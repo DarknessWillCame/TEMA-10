@@ -36,7 +36,10 @@ def fibonacci():
 
 if __name__ == '__main__':
     fibonacci()
+    
 Результат.
+![Tema10_1](https://github.com/DarknessWillCame/TEMA-10/assets/46960566/e7e351c8-ab4c-470e-b496-dd4a3780fab3)
+
 Результат задания 1
 
 Выводы
@@ -61,7 +64,10 @@ def open_file(path, mode):
 
 open_file('./Tema10_2_empty_file.txt', 'r')
 open_file('./Tema10_2_filled_file.txt', 'r')
+
 Результат.
+![Tema10_2](https://github.com/DarknessWillCame/TEMA-10/assets/46960566/261b5ccb-bc2a-4069-99fa-dbdec8dffcef)
+
 Результат задания 2
 
 Выводы
@@ -81,7 +87,10 @@ def calc(value):
 print(calc(0))
 print(calc(100))
 print(calc('сто'))
+
 Результат.
+![Tema10_3](https://github.com/DarknessWillCame/TEMA-10/assets/46960566/4387534c-f031-4665-ad68-de07f1247a1f)
+
 Результат задания 3
 
 Выводы
@@ -108,7 +117,10 @@ def add_strings(a, b):
 
 add_numbers(1, 2)
 add_strings('100', '200')
+
 Результат.
+![Tema10_4](https://github.com/DarknessWillCame/TEMA-10/assets/46960566/1666e26a-fdc1-4bd1-a951-783b4ef0e034)
+
 Результат задания 4
 
 Выводы
@@ -147,7 +159,10 @@ except NameLengthError as err:
     print('Ошибка:', err)
 finally:
     print('Учётная запись студента создана успешно')
+    
 Результат.
+![Tema10_5](https://github.com/DarknessWillCame/TEMA-10/assets/46960566/f5c64c33-6d17-417d-b15a-5b76f7ae0385)
+
 Результат задания 5
 
 Выводы
